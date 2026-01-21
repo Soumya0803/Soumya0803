@@ -95,7 +95,6 @@ I’m a backend-focused software engineer with strong experience in **building s
 - Open Source Contributor – **Mozilla**
 - Organizer – **India Linux User Group (Delhi)**
 - Organizer – **OpenTech Summit, Delhi**
-- General Secretary – **IEEE MSIT**
 - Tech Mentor – IEEE MSIT & GirlScript Summer of Code
 
 ---
