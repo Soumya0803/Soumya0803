@@ -59,8 +59,12 @@ I’m a backend-focused software engineer with strong experience in **building s
 
 ## 💼 Experience Highlights
 
-**Senior Software Engineer – FinSoftAI**  
-*(Jun 2023 – Present)*  
+**Lead Software Engineer –Zimperium**  
+*(Mar 2026 – Present)*  
+- Working on Mobile Security Solutions on the product's core App Ananlysis Backend Team
+
+**Lead Software Engineer – FinSoftAI**  
+*(Jun 2023 – Mar2026)*  
 - Built asynchronous task processing pipelines using **Celery & Redis**, reducing model inference time by **40%**
 - Designed REST APIs consumed by React frontends with **<300ms latency**
 - Integrated multiple sentiment sources (Reddit, Bluesky, SEC EDGAR) to improve trading signal accuracy by **30%**
